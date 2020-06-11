@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.group{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-bottom: none;
+}
+
+.group__checkbox{
+    border-bottom: 2px solid black;
+}
+
+.group__info{
+    border-bottom: 2px solid black;
+}
+
+.off{
+    display: none;
+}

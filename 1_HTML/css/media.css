@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px){
+    .show-menu{
+        visibility: visible;
+    }
+    .header__sidebar{
+        display: none;
+    }
+    .hide{
+        display: flex;
+    }
+
+    
+}
